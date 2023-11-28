@@ -6,4 +6,4 @@
 SRC_URI = "https://download.visualstudio.microsoft.com/download/pr/91223e4e-2300-4e8e-9364-09ea1c317294/47fb26a2df5eeee08f77a4d1b720a34a/aspnetcore-runtime-8.0.0-linux-arm64.tar.gz;subdir=aspnet-${PV}"
 
 SRC_URI[md5sum] = "e6c0943f4b6801382a5b47d8b20092fc"
-SRC_URI[sha256sum] = "09ac683722a29d0dbe49e3c7604a641a787335a6b4e2adf5a0bd43575c665e78"
+SRC_URI[sha256sum] = "2c501257aa5f7437ab7cbc7419b3a4368ad2b72b515b3f3f9acfd83c0b75d057"
